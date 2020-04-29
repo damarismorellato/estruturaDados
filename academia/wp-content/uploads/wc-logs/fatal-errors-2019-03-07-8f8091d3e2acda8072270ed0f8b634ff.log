@@ -1,0 +1,32 @@
+2019-03-07T01:36:46+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\wamp64\www\academia\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\wamp64\www\academia\wp-content\plugins\revslider\revslider.php(165): RevSliderAdmin->__construct('C:\\wamp64\\www\\a...')
+#4 C:\wamp64\www\academia\wp-admin\includes\plugin.php(629): include_once('C:\\wamp64\\www\\a...')
+#5 C:\wamp64\www\academia\wp-content\themes\academia\g5plus-framework\tgm-plugin-activation\class-tgm-plugin-activation.php(613): activate_plugin('revslider/revsl...')
+#6 C:\wamp64\www\academia\wp-content\themes\academia\g5plus, em C:\wamp64\www\academia\wp-content\plugins\revslider\includes\framework\base-admin.class.php, na linha 71
+
+2019-03-07T01:37:49+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\wamp64\www\academia\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\wamp64\www\academia\wp-content\plugins\revslider\revslider.php(165): RevSliderAdmin->__construct('C:\\wamp64\\www\\a...')
+#4 C:\wamp64\www\academia\wp-admin\includes\plugin.php(629): include_once('C:\\wamp64\\www\\a...')
+#5 C:\wamp64\www\academia\wp-content\themes\academia\g5plus-framework\tgm-plugin-activation\class-tgm-plugin-activation.php(613): activate_plugin('revslider/revsl...')
+#6 C:\wamp64\www\academia\wp-content\themes\academia\g5plus, em C:\wamp64\www\academia\wp-content\plugins\revslider\includes\framework\base-admin.class.php, na linha 71
+
+2019-03-07T01:43:45+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\wamp64\www\academia\wp-content\plugins\revslider\includes\framework\base-admin.class.php:71
+Stack trace:
+#0 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(572): RevSliderBaseAdmin::addMetaBox('Revolution Slid...', '', Array, NULL)
+#1 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(73): RevSliderAdmin->addSliderMetaBox()
+#2 C:\wamp64\www\academia\wp-content\plugins\revslider\admin\revslider-admin.class.php(44): RevSliderAdmin->init()
+#3 C:\wamp64\www\academia\wp-content\plugins\revslider\revslider.php(165): RevSliderAdmin->__construct('C:\\wamp64\\www\\a...')
+#4 C:\wamp64\www\academia\wp-admin\includes\plugin.php(629): include_once('C:\\wamp64\\www\\a...')
+#5 C:\wamp64\www\academia\wp-content\themes\academia\g5plus-framework\tgm-plugin-activation\class-tgm-plugin-activation.php(613): activate_plugin('revslider/revsl...')
+#6 C:\wamp64\www\academia\wp-content\themes\academia\g5plus, em C:\wamp64\www\academia\wp-content\plugins\revslider\includes\framework\base-admin.class.php, na linha 71
+
+2019-03-07T02:29:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\wamp64\www\academia\wp-content\themes\academia\includes\theme-setup.php, na linha 72
+

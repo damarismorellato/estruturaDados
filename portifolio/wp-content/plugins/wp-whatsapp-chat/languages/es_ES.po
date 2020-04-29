@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QuadLayers WhatsApp Chat\n"
+"POT-Creation-Date: 2018-12-24 16:08-0300\n"
+"PO-Revision-Date: 2019-03-02 18:56-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ql-whatsapp-total.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: inc/premium.php:34 inc/purchase.php:12 inc/purchase.php:22
+msgid "Premium"
+msgstr ""
+
+#: inc/premium.php:48
+msgid "Target"
+msgstr ""
+
+#: inc/premium.php:51 inc/premium.php:81 inc/premium.php:99
+#: inc/premium.php:137
+msgid "Exclude from all"
+msgstr ""
+
+#: inc/premium.php:52
+msgid "Home"
+msgstr ""
+
+#: inc/premium.php:53
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/premium.php:54
+msgid "Search"
+msgstr ""
+
+#: inc/premium.php:55
+msgid "404"
+msgstr ""
+
+#: inc/premium.php:57
+msgid "If you select an option all the other will be excluded"
+msgstr ""
+
+#: inc/premium.php:80
+#, php-format
+msgid "Select %s&hellip;"
+msgstr ""
+
+#: inc/premium.php:98
+#, php-format
+msgid "Search for %s&hellip;"
+msgstr ""
+
+#: inc/premium.php:159
+msgid "Save Contact"
+msgstr ""
+
+#: inc/premium.php:165
+msgid "Add Contact"
+msgstr "Añadir contacto"
+
+#: inc/premium.php:169
+msgid "Avatar"
+msgstr "Avatar"
+
+#: inc/premium.php:170 inc/settings.php:209
+msgid "Phone"
+msgstr ""
+
+#: inc/premium.php:171 inc/premium.php:535
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/premium.php:172 inc/premium.php:547 inc/settings.php:210
+msgid "Label"
+msgstr "Etiqueta"
+
+#: inc/premium.php:173 inc/premium.php:559 inc/settings.php:227
+msgid "Message"
+msgstr "Mensaje"
+
+#: inc/premium.php:174 inc/settings.php:216
+msgid "Chat"
+msgstr ""
+
+#: inc/premium.php:175
+msgid "Actions"
+msgstr "Acciones"
+
+#: inc/premium.php:485
+msgid "Whatsapp Chat"
+msgstr ""
+
+#: inc/premium.php:497
+msgid "Brand"
+msgstr "Marca"
+
+#: inc/premium.php:510
+msgid "Text"
+msgstr ""
+
+#: inc/premium.php:522
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/premium.php:571 inc/settings.php:115
+msgid "Button Layout"
+msgstr "Layout  del botón"
+
+#: inc/premium.php:575 inc/settings.php:118
+msgid "Button"
+msgstr "Boton"
+
+#: inc/premium.php:576 inc/settings.php:119
+msgid "Bubble"
+msgstr "Burbuja"
+
+#: inc/premium.php:586 inc/settings.php:124
+msgid "Button Position"
+msgstr ""
+
+#: inc/premium.php:588 inc/settings.php:127
+msgid "Bottom Left"
+msgstr "Inferior izquierda"
+
+#: inc/premium.php:589 inc/settings.php:128
+msgid "Bottom Right"
+msgstr "Inferior derecha"
+
+#: inc/premium.php:599 inc/settings.php:134
+msgid "Button Text"
+msgstr ""
+
+#: inc/premium.php:610 inc/settings.php:140
+msgid "Button Icon"
+msgstr "Icono del botón"
+
+#: inc/premium.php:620 inc/settings.php:147
+msgid "Box Header"
+msgstr ""
+
+#: inc/premium.php:630 inc/settings.php:153
+msgid "Box Footer"
+msgstr ""
+
+#: inc/purchase.php:24
+msgid ""
+"Unlock the power of our premium WhatsApp Chat plugin wich allows you to "
+"include unlimited agent accounts with their names and labels inside the box "
+"to provide a direct contact to the different support areas of your site."
+msgstr ""
+
+#: inc/purchase.php:27
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/purchase.php:28
+msgid "Documentation"
+msgstr ""
+
+#: inc/purchase.php:32
+msgid "Multiple agents"
+msgstr "Múltiples agentes"
+
+#: inc/purchase.php:34
+msgid ""
+"WhatsApp Chat allows you to include unlimited agent accounts with their "
+"names and labels inside the box to provide a direct contact to the different "
+"support areas of your site."
+msgstr ""
+
+#: inc/purchase.php:38
+msgid "Customize Colors"
+msgstr ""
+
+#: inc/purchase.php:40
+msgid ""
+"Customize the colors to match your site’s theme and the text to represent "
+"your main users’ language through the WordPress live customizer interface."
+msgstr ""
+
+#: inc/purchase.php:44
+msgid "Custom icons"
+msgstr ""
+
+#: inc/purchase.php:46
+msgid ""
+"Our plugin allows you to select between more than fourteen icons to include "
+"in your Whatsapp button."
+msgstr ""
+
+#: inc/purchase.php:63
+msgid "Chatbox interface"
+msgstr ""
+
+#: inc/purchase.php:65
+msgid ""
+"WhatsApp chat for WordPress allows you to include a chatbox for each agent "
+"where your users can type their first message."
+msgstr ""
+
+#: inc/purchase.php:70
+msgid "Custom agent message"
+msgstr ""
+
+#: inc/purchase.php:72
+msgid ""
+"Allow you to set a custom message for each agent that will displayed on the "
+"chatbox."
+msgstr ""
+
+#: inc/purchase.php:76
+msgid "Custom user message"
+msgstr ""
+
+#: inc/purchase.php:78
+msgid ""
+"You can choose the predefined user message that will be sent to the agent "
+"phone number."
+msgstr ""
+
+#: inc/purchase.php:82
+msgid "Type user message"
+msgstr ""
+
+#: inc/purchase.php:84
+msgid ""
+"Allow your users to type their own messages before send it to the agent "
+"phone number."
+msgstr ""
+
+#: inc/settings.php:12 inc/settings.php:27 inc/settings.php:269
+msgid "WhatsApp Chat"
+msgstr ""
+
+#: inc/settings.php:29
+msgid ""
+"Thanks for using WhatsApp Chat! We will do our best to offer you the best "
+"and improved communication experience with your users."
+msgstr ""
+
+#: inc/settings.php:32
+msgid "Checkout our documentation"
+msgstr ""
+
+#: inc/settings.php:51
+msgid "Version"
+msgstr "Version"
+
+#: inc/settings.php:129
+msgid "Bottom Center"
+msgstr "Inferior centro"
+
+#: inc/settings.php:142
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/settings.php:159
+msgid "User Message"
+msgstr ""
+
+#: inc/settings.php:170
+msgid "Contact"
+msgstr ""
+
+#: inc/settings.php:195
+msgid "Upload"
+msgstr ""
+
+#: inc/settings.php:203
+msgid "Firstname"
+msgstr ""
+
+#: inc/settings.php:205
+msgid "Lastname"
+msgstr "Apellidos"
+
+#: inc/settings.php:219
+msgid "Enabled"
+msgstr ""
+
+#: inc/settings.php:222
+msgid "Disabled"
+msgstr ""
+
+#: inc/settings.php:264
+msgid "Close media panel"
+msgstr ""
+
+#: inc/settings.php:273
+msgid "Select icon"
+msgstr ""
+
+#: inc/settings.php:280
+msgid "Featured Image"
+msgstr ""
+
+#: inc/settings.php:296
+msgid "Deselect"
+msgstr ""
+
+#: inc/settings.php:307
+msgid "Save"
+msgstr ""
+
+#: inc/settings.php:308
+msgid "Remove"
+msgstr ""
+
+#: ql-whatsapp-total.php:77
+msgid "Hello! I'm testing the WhatsApp Chat plugin @https://quadlayers.com"
+msgstr ""
+
+#: ql-whatsapp-total.php:86
+msgid "How can I help you?"
+msgstr ""
+
+#: ql-whatsapp-total.php:99
+msgid "Support"
+msgstr ""
+
+#: ql-whatsapp-total.php:100
+msgid "Hello! I'm John from the support team."
+msgstr ""
+
+#: template/box_1.php:69
+msgid "Write a reponse"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "QuadLayers WhatsApp Chat"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simplifies the checkout process to improve your sales rate."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QuadLayers"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://quadlayers.com"
+msgstr ""
